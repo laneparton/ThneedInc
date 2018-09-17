@@ -1,7 +1,7 @@
 # ThneedInc
 This was a senior project assigned in I400 - Application Development
 
-# Assignment Part 1
+## Assignment Part 1
 Create a program that allows a business (Thneed Inc.) to keep track of customers and orders. There will be Customer objects that will indicate the name, address and phone number of the customer, along with a list of current and past orders. There will be Order objects which indicate which Customer is placing the order, and the details of the order, such as number of Thneeds, size(s) and color(s). The Order object should also indicate the date the order was placed and the date the order was filled (null if not yet filled). There will be a GUI which will allow the user to view a list of all orders, with the details of the currently selected order shown. If the user clicks on the Customer field for the current order, the details of the Customer should be shown. The GUI should allow the user to enter a new order, new customer, and update the date a particular order was filled. Finally, the GUI should allow the user to save the current state of the data (Orders and Customers) to a file. When the application launches, it should look for that file and populate the application with the information in that file if it exists.
 
 # Assignment Part 2
